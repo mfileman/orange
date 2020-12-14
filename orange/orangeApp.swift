@@ -11,7 +11,7 @@ import SwiftUI
 struct orangeApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            FriendList()
         }
     }
 }
